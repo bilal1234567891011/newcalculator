@@ -1,0 +1,46 @@
+#kk{
+    width: 328px;
+    height: 400px;
+    background-color: black;
+    border-radius: 20px;
+    border: solid white 1px;
+    margin-left: 414px;
+    margin-top: 70px;
+    box-shadow: 5px 10px #888888;
+    
+
+}
+h3{
+    text-align: center;
+    color:white;
+    font-size: smaller;
+
+}
+::placeholder{
+    text-align: right;
+}
+form{
+    width: 300px;
+    
+    
+
+    
+}
+@media(max-width:480px){
+.container{
+    width: 300px;
+
+}
+.container[type = "button"]{
+    height: 60px;
+}
+
+}
+
+
+#nq{
+    text-align: center;
+}
+input{
+    box-shadow: 11px 14px;
+}
